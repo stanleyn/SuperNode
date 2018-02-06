@@ -27,6 +27,7 @@ Reduce the size of your network from N nodes to S super nodes
 -To use: 
 
 source('SuperNode.R')
+
 Out=SuperNode(MyNetwork,NumberOfSuperNodes)
 
 #Demo Function
