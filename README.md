@@ -32,8 +32,11 @@ Out=SuperNode(MyNetwork,NumberOfSuperNodes)
 ```
 **Demo Function**:
 -Please feel free to try this on a sample network.
+
 -This script loads the network and represents it with 500 super nodes.
+
 -It then plots the network with nodes colored by super nodes
+
 -It also plots the super node network.
 
 -To use:
