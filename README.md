@@ -1,7 +1,7 @@
 # SuperNode
 Reduce the size of your network from N nodes to S super nodes 
 
-Overview: 
+# Overview : 
 
 -The objective of this code is to convert your network of N nodes to a network of S super nodes
 
@@ -11,13 +11,15 @@ Overview:
 
 -This is the work described in https://arxiv.org/abs/1706.04110
 
-Contact: 
+## Contact: 
  -For issues, please contact Natalie Stanley, NatalieStanley1318@gmail.com
  
 Practical Info:
  -This code was tested using R version 3.4.3
  
  -You will need to install igraph if you have not already
+
+# Examples
  
 **Main Function**
 -`SuperNode.R` is the main function
