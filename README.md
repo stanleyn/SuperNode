@@ -14,7 +14,7 @@ Practical Info:
  -This code was tested using R version 3.4.3
  -You will need to install igraph if you have not already
  
-Main Function
+**Main Function**
 -`SuperNode.R` is the main function
 -Inputs:
   -Network: Your igraph network object
@@ -30,7 +30,7 @@ Main Function
 source('SuperNode.R')
 Out=SuperNode(MyNetwork,NumberOfSuperNodes)
 ```
-#Demo Function
+**Demo Function**:
 -Please feel free to try this on a sample network.
 -This script loads the network and represents it with 500 super nodes.
 -It then plots the network with nodes colored by super nodes
