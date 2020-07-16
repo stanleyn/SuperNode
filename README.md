@@ -2,9 +2,13 @@
 Reduce the size of your network from N nodes to S super nodes 
 
 Overview: 
+
 -The objective of this code is to convert your network of N nodes to a network of S super nodes
+
 -You will input your network (as an igraph graph object)
+
 -You get out 1) Node to super node assignments and 2) the new super node network
+
 -This is the work described in https://arxiv.org/abs/1706.04110
 
 Contact: 
@@ -12,6 +16,7 @@ Contact:
  
 Practical Info:
  -This code was tested using R version 3.4.3
+ 
  -You will need to install igraph if you have not already
  
 **Main Function**
@@ -27,9 +32,9 @@ Practical Info:
   
   -You will get out a list object with the following two entries
     
-    -`$SNAssn`: The N-length node to super node assignment vector
+    - $SNAssn: The N-length node to super node assignment vector
     
-    -`$SNNet`: The S-node super node network (again, an igraph object).
+    - $SNNet : The S-node super node network (again, an igraph object).
 
 -To use: 
 
