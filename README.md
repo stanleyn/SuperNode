@@ -16,13 +16,20 @@ Practical Info:
  
 **Main Function**
 -`SuperNode.R` is the main function
+
 -Inputs:
-  -Network: Your igraph network object
-  -S: the number of super nodes you wish to turn your network into
+  
+  -`Network`: Your igraph network object
+  
+  -`S`: the number of super nodes you wish to turn your network into
+
 -Outputs:
+  
   -You will get out a list object with the following two entries
-    -$SNAssn: The N-length node to super node assignment vector
-    -$SNNet: The S-node super node network (again, an igraph object).
+    
+    -`$SNAssn`: The N-length node to super node assignment vector
+    
+    -`$SNNet`: The S-node super node network (again, an igraph object).
 
 -To use: 
 
