@@ -22,7 +22,7 @@ Practical Info:
 # Examples
  
 **Main Function**
--`SuperNode.R` is the main function
+`SuperNode.R` is the main function
 
 -Inputs:
   
